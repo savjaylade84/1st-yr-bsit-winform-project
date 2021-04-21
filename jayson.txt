@@ -1,0 +1,6 @@
+-----------01/01/0001 12:00:00 AM-----------------
+Name of The last item:Fried Macarel
+Total Number of items:123
+Total Number of Discount Given:123
+Total Number of Discount Amount:6027
+-------------------------------------------
