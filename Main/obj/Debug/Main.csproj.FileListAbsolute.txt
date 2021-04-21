@@ -1,0 +1,57 @@
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Main.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Main.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Main.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\CashierAdministrator.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Student_info.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\CashierAdministrator.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\CashierAdministrator.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\jayson_activity.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Student_info.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\Student_info.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\jayson\source\repos\jayson_activity\Main\obj\Debug\Main.MainPage.resources
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\AboutUs.exe
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\AboutUs.pdb
+C:\Users\jayson\source\repos\jayson_activity\Main\bin\Debug\AboutUs.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Main.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Main.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Main.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\AboutUs.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\CashierAdministrator.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Student_info.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\AboutUs.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\AboutUs.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\CashierAdministrator.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\CashierAdministrator.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\jayson_activity.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Student_info.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\bin\Debug\Student_info.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\obj\Debug\Main.MainPage.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\obj\Debug\Main.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Main\obj\Debug\Main.pdb

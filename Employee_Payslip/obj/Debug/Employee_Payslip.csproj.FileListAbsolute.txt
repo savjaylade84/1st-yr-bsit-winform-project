@@ -1,0 +1,29 @@
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.Properties.Resources.resources
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.Controller_Payroll.resources
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.csproj.CopyComplete
+C:\Users\jayson\source\repos\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.Controller.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.Controller.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.Controller_Payroll.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.csproj.CopyComplete
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Employee_Payslip\obj\Debug\Employee_Payslip.pdb

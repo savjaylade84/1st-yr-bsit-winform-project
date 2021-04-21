@@ -1,0 +1,45 @@
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\CashierAdministrator.exe.config
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\CashierAdministrator.exe
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\CashierAdministrator.pdb
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\Student_info.exe
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\jayson_activity.exe.config
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\Student_info.pdb
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\bin\Debug\Student_info.exe.config
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.CashierAdministrator.resources
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.Properties.Resources.resources
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.csproj.CopyComplete
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.exe
+C:\Users\jayson\source\repos\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\CashierAdministrator.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\CashierAdministrator.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\CashierAdministrator.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\Student_info.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\jayson_activity.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\Student_info.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\bin\Debug\Student_info.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.CashierAdministrator.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.csproj.CopyComplete
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\CashierAdministrator\obj\Debug\CashierAdministrator.pdb

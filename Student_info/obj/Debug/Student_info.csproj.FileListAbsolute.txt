@@ -1,0 +1,19 @@
+C:\Users\jayson\source\repos\jayson_activity\Student_info\bin\Debug\Student_info.exe.config
+C:\Users\jayson\source\repos\jayson_activity\Student_info\bin\Debug\Student_info.exe
+C:\Users\jayson\source\repos\jayson_activity\Student_info\bin\Debug\Student_info.pdb
+C:\Users\jayson\source\repos\jayson_activity\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\jayson_activity\Student_info\obj\Debug\Student_info.Form1.resources
+C:\Users\jayson\source\repos\jayson_activity\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+C:\Users\jayson\source\repos\jayson_activity\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\jayson_activity\Student_info\obj\Debug\Student_info.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\jayson_activity\Student_info\obj\Debug\Student_info.exe
+C:\Users\jayson\source\repos\jayson_activity\Student_info\obj\Debug\Student_info.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Debug\Student_info.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Debug\Student_info.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Debug\Student_info.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Debug\Student_info.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Debug\Student_info.Form1.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Debug\Student_info.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Debug\Student_info.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Debug\Student_info.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Debug\Student_info.pdb

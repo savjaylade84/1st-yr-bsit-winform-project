@@ -1,0 +1,19 @@
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\obj\Debug\InfoForm.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\obj\Debug\InfoForm.Properties.Resources.resources
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\obj\Debug\InfoForm.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\obj\Debug\InfoForm.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\obj\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\obj\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\jayson_activity\InfoForm\obj\Debug\InfoForm.Emp_Info.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Debug\InfoForm.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Debug\InfoForm.Emp_Info.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Debug\InfoForm.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Debug\InfoForm.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Debug\InfoForm.pdb

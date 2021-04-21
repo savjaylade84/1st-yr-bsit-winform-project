@@ -1,0 +1,14 @@
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Release\InfoForm.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Release\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Release\InfoForm.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.Emp_Info.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Release\InfoForm.exe.manifest
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\bin\Release\InfoForm.application
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.TrustInfo.xml
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.exe.manifest
+C:\Users\jayson\source\repos\csharp project\jayson_activity\InfoForm\obj\Release\InfoForm.application

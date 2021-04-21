@@ -1,0 +1,19 @@
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\bin\Debug\AboutUs.exe.config
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\bin\Debug\AboutUs.exe
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\bin\Debug\AboutUs.pdb
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\obj\Debug\AboutUs.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\obj\Debug\AboutUs.about.resources
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\obj\Debug\AboutUs.Properties.Resources.resources
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\obj\Debug\AboutUs.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\obj\Debug\AboutUs.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\obj\Debug\AboutUs.exe
+C:\Users\jayson\source\repos\jayson_activity\AboutUs\obj\Debug\AboutUs.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Debug\AboutUs.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Debug\AboutUs.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Debug\AboutUs.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Debug\AboutUs.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Debug\AboutUs.about.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Debug\AboutUs.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Debug\AboutUs.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Debug\AboutUs.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Debug\AboutUs.pdb

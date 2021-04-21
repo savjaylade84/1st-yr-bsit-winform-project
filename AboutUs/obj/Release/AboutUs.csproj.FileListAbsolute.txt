@@ -1,0 +1,14 @@
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Release\AboutUs.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Release\AboutUs.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Release\AboutUs.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.about.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Release\AboutUs.exe.manifest
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\bin\Release\AboutUs.application
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.TrustInfo.xml
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.exe.manifest
+C:\Users\jayson\source\repos\csharp project\jayson_activity\AboutUs\obj\Release\AboutUs.application

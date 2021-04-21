@@ -1,0 +1,42 @@
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\bin\Debug\jayson_activity.exe.config
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\bin\Debug\jayson_activity.exe
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\bin\Debug\jayson_activity.pdb
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csprojResolveAssemblyReference.cache
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\obj\Debug\jayson_activity.Form1.resources
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\obj\Debug\jayson_activity.Properties.Resources.resources
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csproj.GenerateResource.Cache
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\obj\Debug\jayson_activity.exe
+c:\users\jdeleon\documents\visual studio 2013\Projects\jayson_activity\jayson_activity\obj\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\jayson_activity.exe.config
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.Properties.Resources.resources
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csproj.CoreCompileInputs.cache
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csproj.CopyComplete
+C:\Users\jayson\source\repos\jayson_activity\jayson_activity\obj\Debug\jayson_activity.POSCashier.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\jayson_activity.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\jayson_activity.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\Employee_Payslip.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\InfoForm.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\Employee_Payslip.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\Employee_Payslip.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\InfoForm.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\bin\Debug\InfoForm.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\obj\Debug\jayson_activity.POSCashier.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\obj\Debug\jayson_activity.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\obj\Debug\jayson_activity.csproj.CopyComplete
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\obj\Debug\jayson_activity.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\jayson_activity\obj\Debug\jayson_activity.pdb

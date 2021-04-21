@@ -1,0 +1,14 @@
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Release\Student_info.exe.config
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Release\Student_info.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Release\Student_info.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.csprojAssemblyReference.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.Form1.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.Properties.Resources.resources
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.csproj.GenerateResource.cache
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.exe
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.pdb
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Release\Student_info.exe.manifest
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\bin\Release\Student_info.application
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.TrustInfo.xml
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.exe.manifest
+C:\Users\jayson\source\repos\csharp project\jayson_activity\Student_info\obj\Release\Student_info.application
